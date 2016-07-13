@@ -68,7 +68,6 @@ setup(
 			"robofab.objects",
 			"robofab.pens",
 			"robofab.tools",
-                        "ufoLib",
 		],
 		package_dir = {'': 'Lib'},
 		#extra_path = 'FontTools',
